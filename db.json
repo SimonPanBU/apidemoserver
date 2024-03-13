@@ -41,5 +41,57 @@
     "body": "might cost money, time and pain",
     "lane": 4
   }
-]
+],
+
+  "lists": [
+    {
+      "id": 1,
+      "title": "Daily Groceries"
+    },
+    {
+      "id": 2,
+      "title": "Birthday Gift Youngest Child"
+    }
+
+    {
+      "id": 3,
+      "title": "Birthday Gift Midllechild "
+    }
+    {
+      "id": 4,
+      "title": "Birthday Gift Girlfriend"
+    }
+
+    {
+      "id": 5,
+      "title": "Fund for Cancun"
+      
+    }
+    
+    
+  ],
+
+  "items": [
+    {
+      "id": 1,
+      "listId": 1,
+      "title": "Washing pods",
+      "quantity": 1,
+      "price": 6.99
+    },
+    {
+      "id": 2,
+      "listId": 1,
+      "title": "Rice",
+      "quantity": 1,
+      "price": 0.99
+    },
+    {
+      "id": 3,
+      "listId": 2,
+      "title": "Birthday Cake",
+      "quantity": 1,
+      "price": 8.99
+    }
+  ]
 }
