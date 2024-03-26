@@ -78,63 +78,243 @@
 
   "items": [
     {
-      "id": 1,
-      "listId": 1,
-      "title": "Washing pods",
-      "quantity": 1,
-      "price": 6.99
-    },
+    "id": 1,
+    "listId": 1,
+    "title": "Washing Pods",
+    "quantity": 1,
+    "price": 6.99
+  },
+  {
+    "id": 2,
+    "listId": 1,
+    "title": "Rice",
+    "quantity": 2,
+    "price": 0.99
+  },
+  {
+    "id": 3,
+    "listId": 1,
+    "title": "Organic Bananas",
+    "quantity": 3,
+    "price": 1.50
+  },
+  {
+    "id": 4,
+    "listId": 1,
+    "title": "Almond Milk",
+    "quantity": 1,
+    "price": 2.99
+  },
+  {
+    "id": 5,
+    "listId": 1,
+    "title": "Fresh Avocados",
+    "quantity": 2,
+    "price": 1.99
+  },
+  {
+    "id": 6,
+    "listId": 1,
+    "title": "Whole Grain Bread",
+    "quantity": 1,
+    "price": 2.49
+  },
+  {
+    "id": 7,
+    "listId": 1,
+    "title": "Organic Eggs",
+    "quantity": 1,
+    "price": 3.99
+  },
+  {
+    "id": 8,
+    "listId": 1,
+    "title": "Cheddar Cheese",
+    "quantity": 1,
+    "price": 0.99
+  },
     {
-      "id": 2,
-      "listId": 1,
-      "title": "Rice",
-      "quantity": 1,
-      "price": 0.99
-    },
-    {
-      "id": 3,
-      "listId": 2,
-      "title": "Birthday Cake",
-      "quantity": 1,
-      "price": 8.99
-    },
-    
- {
-      "id": 4,
-      "listId": 2,
-      "title": "Birthday Cake 69",
-      "quantity": 1,
-      "price": 8.99
-    },
-    
-{
-      "id": 5,
-      "listId": 3,
-      "title": "Birthday Cake 2",
-      "quantity": 1,
-      "price": 8.99
-    },
-    {
-      "id": 6,
-      "listId": 4,
-      "title": "Birthday Cake 3",
-      "quantity": 1,
-      "price": 69.69
-    },
+    "id": 9,
+    "listId": 2,
+    "title": "Sparkling Candles",
+    "quantity": 1,
+    "price": 4.99
+  },
+  {
+    "id": 10,
+    "listId": 2,
+    "title": "Gift Wrap",
+    "quantity": 1,
+    "price": 2.99
+  },
+  {
+    "id": 11,
+    "listId": 2,
+    "title": "Greeting Card",
+    "quantity": 1,
+    "price": 3.50
+  },
+  {
+    "id": 12,
+    "listId": 2,
+    "title": "Party Hats",
+    "quantity": 8,
+    "price": 5.99
+  },
+  {
+    "id": 13,
+    "listId": 2,
+    "title": "Balloon Set",
+    "quantity": 1,
+    "price": 6.99
+  },
+  {
+    "id": 14,
+    "listId": 2,
+    "title": "Confetti Pack",
+    "quantity": 1,
+    "price": 1.99
+  },
+  {
+    "id": 15,
+    "listId": 2,
+    "title": "Tablecloth",
+    "quantity": 1,
+    "price": 9.99
+  },
+  {
+    "id": 16,
+    "listId": 2,
+    "title": "Disposable Cameras",
+    "quantity": 2,
+    "price": 14.99
+  },
+  {
+    "id": 17,
+    "listId": 3,
+    "title": "Board Game",
+    "quantity": 1,
+    "price": 19.99
+  },
+  {
+    "id": 18,
+    "listId": 3,
+    "title": "Puzzle Set",
+    "quantity": 1,
+    "price": 15.99
+  },
+  {
+    "id": 19,
+    "listId": 3,
+    "title": "Science Kit",
+    "quantity": 1,
+    "price": 22.99
+  },
+  {
+    "id": 20,
+    "listId": 3,
+    "title": "Lego Set",
+    "quantity": 1,
+    "price": 29.99
+  },
+  {
+    "id": 21,
+    "listId": 3,
+    "title": "Art Supplies",
+    "quantity": 1,
+    "price": 18.99
+  },
+  {
+    "id": 22,
+    "listId": 3,
+    "title": "Sketch Pad",
+    "quantity": 2,
+    "price": 6.99
+  },
+  {
+    "id": 23,
+    "listId": 3,
+    "title": "Colored Pencil Set",
+    "quantity": 1,
+    "price": 5.99
+  },
+  {
+    "id": 24,
+    "listId": 3,
+    "title": "Modeling Clay",
+    "quantity": 1,
+    "price": 4.99
+  },
+  {
+    "id": 25,
+    "listId": 4,
+    "title": "Romantic Novel",
+    "quantity": 1,
+    "price": 7.99
+  },
+  {
+    "id": 26,
+    "listId": 4,
+    "title": "Chocolates Box",
+    "quantity": 1,
+    "price": 9.99
+  },
+  {
+    "id": 27,
+    "listId": 4,
+    "title": "Scented Candles",
+    "quantity": 3,
+    "price": 12.99
+  },
+  {
+    "id": 28,
+    "listId": 4,
+    "title": "Silk Scarf",
+    "quantity": 1,
+    "price": 25.99
+  },
+  {
+    "id": 29,
+    "listId": 4,
+    "title": "Jewelry Box",
+    "quantity": 1,
+    "price": 18.99
+  },
      {
-      "id": 7,
-      "listId": 4,
-      "title": "Birthday Cake 4",
-      "quantity": 1,
-      "price": 69.69
-    },
-     {
-      "id": 8,
-      "listId": 5,
-      "title": "Birthday Cake 5",
-      "quantity": 1,
-      "price": 69.69
-    }
+    "id": 31,
+    "listId": 5,
+    "title": "Sunscreen SPF 50+",
+    "quantity": 1,
+    "price": 15.99
+  },
+  {
+    "id": 32,
+    "listId": 5,
+    "title": "Beach Towel",
+    "quantity": 2,
+    "price": 19.99
+  },
+  {
+    "id": 33,
+    "listId": 5,
+    "title": "Sunglasses",
+    "quantity": 1,
+    "price": 35.99
+  },
+  {
+    "id": 34,
+    "listId": 5,
+    "title": "Swim Shorts",
+    "quantity": 1,
+    "price": 24.99
+  },
+  {
+    "id": 35,
+    "listId": 5,
+    "title": "Flip Flops",
+    "quantity": 1,
+    "price": 9.99
+  },
     
     
   ]
